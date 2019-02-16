@@ -1,0 +1,213 @@
+----------FIRST PART----------
+<3     0     4     1>
+<2     0     1     1>
+<4     0     2     1>
+<5     0     3     1>
+<6     0     4     1>
+<7     0     4     1>
+<8     0     4     1>
+<9     0     2     1>
+<10     0     2     1>
+<1     1     2     1>
+<3     0     2     1>
+<2     0     4     1>
+<4     0     2     1>
+<5     0     3     1>
+<6     0     2     1>
+<7     0     2     1>
+<8     0     1     1>
+<9     0     4     1>
+<10     0     3     1>
+<3     0     2     1>
+<1     0     1     1>
+<2     0     1     1>
+<4     0     3     1>
+<5     0     2     1>
+<6     0     2     1>
+<7     0     3     1>
+<8     0     2     1>
+<9     0     3     1>
+<10     0     4     1>
+<3     0     1     1>
+<1     0     3     1>
+<2     0     2     1>
+<4     0     2     1>
+<5     0     3     1>
+<3     0     1     1>
+<1     0     1     1>
+<4     0     3     1>
+<5     0     1     1>
+<1     0     1     1>
+<1     0     2     1>
+<8     0     4     2>
+<3     0     3     2>
+<5     0     4     2>
+<7     0     1     2>
+<1     1     2     2>
+<9     0     3     2>
+<4     0     3     2>
+<2     1     1     2>
+<6     0     3     2>
+<8     0     3     2>
+<3     0     3     2>
+<5     0     2     2>
+<7     0     2     2>
+<1     0     2     2>
+<8     0     2     2>
+<3     0     4     2>
+<5     0     4     2>
+<7     0     3     2>
+<1     0     1     2>
+<3     0     3     2>
+<5     0     4     2>
+<1     0     2     2>
+<3     0     3     2>
+<5     0     4     2>
+<1     0     3     2>
+<1     0     2     2>
+<9     0     3     2>
+<4     0     1     2>
+<2     0     3     2>
+<6     0     3     2>
+<9     0     4     2>
+<4     0     3     2>
+<2     0     1     2>
+<6     0     4     2>
+<10     0     4     2>
+<4     0     2     2>
+<2     0     4     2>
+<10     0     2     2>
+<4     0     1     2>
+<10     0     4     2>
+<10     0     2     3>
+<2     0     4     3>
+<4     0     1     3>
+<1     0     1     3>
+<7     0     2     3>
+<8     0     4     3>
+<10     0     2     3>
+<2     0     4     3>
+<4     0     1     3>
+<1     0     4     3>
+<7     0     1     3>
+<8     0     4     3>
+<10     0     3     3>
+<2     0     4     3>
+<4     0     1     3>
+<1     0     3     3>
+<7     0     1     3>
+<8     0     4     3>
+<5     0     2     3>
+<6     0     4     3>
+<9     0     3     3>
+<3     0     4     3>
+<2     0     3     3>
+<4     0     1     3>
+<1     0     1     3>
+<5     0     4     3>
+<6     0     2     3>
+<9     0     3     3>
+<4     0     4     3>
+<1     0     4     3>
+<5     0     2     3>
+<1     0     3     3>
+<6     0     1     3>
+<9     0     2     3>
+<5     0     2     3>
+<5     0     3     3>
+<3     0     1     3>
+<3     0     1     3>
+<3     0     3     3>
+<3     0     4     3>
+
+----------SECOND PART----------
+Customer 3  Buy : 4
+Customer 3  Reserve : 2
+Customer 3  Cancel: 5
+Customer 3  Nothing: 4
+
+Customer 1  Buy : 6
+Customer 1  Reserve : 6
+Customer 1  Cancel: 4
+Customer 1  Nothing: 2
+
+Customer 2  Buy : 4
+Customer 2  Reserve : 1
+Customer 2  Cancel: 2
+Customer 2  Nothing: 5
+
+Customer 4  Buy : 6
+Customer 4  Reserve : 4
+Customer 4  Cancel: 4
+Customer 4  Nothing: 1
+
+Customer 5  Buy : 1
+Customer 5  Reserve : 5
+Customer 5  Cancel: 4
+Customer 5  Nothing: 5
+
+Customer 6  Buy : 1
+Customer 6  Reserve : 3
+Customer 6  Cancel: 2
+Customer 6  Nothing: 3
+
+Customer 7  Buy : 3
+Customer 7  Reserve : 3
+Customer 7  Cancel: 2
+Customer 7  Nothing: 1
+
+Customer 8  Buy : 1
+Customer 8  Reserve : 2
+Customer 8  Cancel: 1
+Customer 8  Nothing: 5
+
+Customer 9  Buy : 0
+Customer 9  Reserve : 2
+Customer 9  Cancel: 5
+Customer 9  Nothing: 2
+
+Customer 10  Buy : 0
+Customer 10  Reserve : 4
+Customer 10  Cancel: 2
+Customer 10  Nothing: 3
+
+Total Buy Request : 26 - Reserve Request : 32 - Cancel Request : 31 - Nothing Request : 31
+
+Officer 0  Buy : 25
+Officer 0  Reserve : 30
+Officer 0  Cancel : 31
+Officer 0  Nothing : 31
+
+Officer 1  Buy : 1
+Officer 1  Reserve : 2
+Officer 1  Cancel : 0
+Officer 1  Nothing : 0
+
+Total Buy Transaction : 26 - Reserve Transaction : 32 - Cancel Transaction : 31 - Nothing Transaction : 31
+
+----------THIRD PART----------
+Airline 0 Flight 0 - 69 10 10
+Airline 0 Flight 1 - 8 6 0
+Airline 0 Flight 2 - 0 2 2
+Airline 0 Flight 3 - 37 1 0
+Airline 0 Flight 4 - 44 6 0
+Airline 1 Flight 0 - 0 5 0
+Airline 1 Flight 1 - 18 0 0
+Airline 1 Flight 2 - 33 8 2
+Airline 1 Flight 3 - 26 1 0
+Airline 1 Flight 4 - 0 0 0
+Airline 2 Flight 0 - 70 0 0
+Airline 2 Flight 1 - 26 0 0
+Airline 2 Flight 2 - 0 5 2
+Airline 2 Flight 3 - 18 0 0
+Airline 2 Flight 4 - 38 0 0
+Airline 3 Flight 0 - 48 0 0
+Airline 3 Flight 1 - 0 1 0
+Airline 3 Flight 2 - 0 0 0
+Airline 3 Flight 3 - 38 7 5
+Airline 3 Flight 4 - 12 1 0
+Airline 4 Flight 0 - 19 2 2
+Airline 4 Flight 1 - 15 2 2
+Airline 4 Flight 2 - 0 6 5
+Airline 4 Flight 3 - 20 1 0
+Airline 4 Flight 4 - 0 2 0
